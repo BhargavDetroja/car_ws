@@ -1,0 +1,17 @@
+/* styles.css */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.jumbotron {
+    background-image: url('img/banner.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    height: 400px;
+}
+
+.jumbotron h1,
+.jumbotron p {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
